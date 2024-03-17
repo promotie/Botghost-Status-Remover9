@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bekijkt Roleplay Server","Hosted By Ricardodebeast1"];
+const statusMessages = ["Bekijkt op fivem Sasvegas Roleplay","Hosted By Ricardodebeast1"];
 
 
 let currentIndex = 0;
