@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bekijkt Sasvegas Op Fivem","Hosted By Ricardodebeast1"];
+const statusMessages = ["Bekijkt 24/4 Updtime","Hosted By Ricardodebeast1"];
 
 
 let currentIndex = 0;
