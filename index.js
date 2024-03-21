@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bekijkt 24/7 Uptime","Hosted By Ricardodebeast1"];
+const statusMessages = ["Bekijkt .exe Leaks","Hosted By Ricardodebeast1"];
 
 
 let currentIndex = 0;
