@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bekijkt .exe Leaks","Hosted By Ricardodebeast1"];
+const statusMessages = ["View all Complaints in the Complaints Center","Hosted By Medium Bots"];
 
 
 let currentIndex = 0;
