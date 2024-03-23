@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bekijkt Fivem Leaks","Hosted By Ricardodebeast1"];
+const statusMessages = ["Bekijkt TL - Service","Hosted By Ricardodebeast1"];
 
 
 let currentIndex = 0;
