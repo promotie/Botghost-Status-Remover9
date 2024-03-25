@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Hosted By ...."];
+const statusMessages = ["Bekijkt 24/7 Uptime"];
 
 
 let currentIndex = 0;
