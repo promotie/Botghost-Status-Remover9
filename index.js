@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Bekijkt 24/7 Uptime"];
+const statusMessages = [];
 
 
 let currentIndex = 0;
