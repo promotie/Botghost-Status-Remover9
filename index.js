@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Made By Terror"];
+const statusMessages = ["Hosted By Terror"];
 
 
 let currentIndex = 0;
