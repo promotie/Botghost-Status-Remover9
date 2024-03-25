@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Hosted By Terror"];
+const statusMessages = ["Hosted By Breda Roleplay"];
 
 
 let currentIndex = 0;
